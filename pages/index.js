@@ -33,6 +33,13 @@ export default function Home({ allPostsData }) {
           (This is a sample website - you’ll be building a site like this on{" "}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
+        {/* <p>
+          You can also check our sample{" "}
+          <strong>
+            <a href="">TICTACTOE App</a>
+          </strong>{" "}
+          using vanilla javascript
+        </p> */}
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
